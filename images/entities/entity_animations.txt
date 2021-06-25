@@ -1,0 +1,5 @@
+player/idle/ 7;7;40 loop
+player/throw/ 7;7 loop
+player/run/ 7;7 loop
+enemy/idle/ 7;7 loop
+sword/idle/ 7;7 loop
